@@ -53,6 +53,9 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/**/Binaries/*
 
+Content/ArtMarketplace/*
+Content/Art/*
+
 # Builds
 Build/*
 
